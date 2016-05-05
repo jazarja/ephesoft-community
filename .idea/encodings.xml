@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-barcode" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-barcode-extraction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-batch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-cleanup" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-csv-file-creation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-da" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-data-access" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-dynamic-services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-encryption" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-export" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-ftp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-gwt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-gwt/dcma-gwt-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-heart-beat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-imagemagick" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-import-folder" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-key-value-learning" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-kv-extraction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-lucene" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-mail" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-ocropus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-open-office" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-regex" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-regex-pp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-regex-validation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-tabbed-pdf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-table-extraction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-tempfolder-cleanup" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-tesseract" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-user-connectivity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-webservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/dcma-workflows" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/gxt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/gxt/gxt-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/gxt/gxt-batch-instance" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/gxt/gxt-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/gxt/gxt-custom-workflow" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/gxt/gxt-folder-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/gxt/gxt-home" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/gxt/gxt-login" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/gxt/gxt-review-validate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/gxt/gxt-system-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/gxt/gxt-theme" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/gxt/gxt-upload-batch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../source-code/parent" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

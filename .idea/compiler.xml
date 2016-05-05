@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-open-office" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-open-office" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-regex-pp" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-regex-pp" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-user-connectivity" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-user-connectivity" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-encryption" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-encryption" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-ftp" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-ftp" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-tabbed-pdf" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-tabbed-pdf" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-csv-file-creation" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-csv-file-creation" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-key-value-learning" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-key-value-learning" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-test" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-test" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-webapp" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-webapp" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-mail" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-mail" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-kv-extraction" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-kv-extraction" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-table-extraction" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-table-extraction" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-regex-validation" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-regex-validation" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-workflows" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-workflows" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-regex" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-regex" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-da" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-da" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-ocropus" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-ocropus" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-tesseract" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-tesseract" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-lucene" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-lucene" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-barcode" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-barcode" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-barcode-extraction" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-barcode-extraction" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-core" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-core" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-batch" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-batch" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-heart-beat" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-heart-beat" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-imagemagick" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-imagemagick" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-import-folder" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-import-folder" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-data-access" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-data-access" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-cleanup" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-cleanup" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-export" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-export" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-util" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-util" />
+      </profile>
+      <profile default="false" name="Annotation profile for gxt-review-validate" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="gxt-review-validate" />
+      </profile>
+      <profile default="false" name="Annotation profile for gxt-system-config" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="gxt-system-config" />
+      </profile>
+      <profile default="false" name="Annotation profile for gxt-upload-batch" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="gxt-upload-batch" />
+      </profile>
+      <profile default="false" name="Annotation profile for gxt-theme" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="gxt-theme" />
+      </profile>
+      <profile default="false" name="Annotation profile for gxt-home" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="gxt-home" />
+      </profile>
+      <profile default="false" name="Annotation profile for gxt-login" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="gxt-login" />
+      </profile>
+      <profile default="false" name="Annotation profile for gxt-admin" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="gxt-admin" />
+      </profile>
+      <profile default="false" name="Annotation profile for gxt-batch-instance" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="gxt-batch-instance" />
+      </profile>
+      <profile default="false" name="Annotation profile for gxt-folder-manager" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="gxt-folder-manager" />
+      </profile>
+      <profile default="false" name="Annotation profile for gxt-custom-workflow" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="gxt-custom-workflow" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-webservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-webservice" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-tempfolder-cleanup" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-tempfolder-cleanup" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-gwt-core" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-gwt-core" />
+      </profile>
+      <profile default="false" name="Annotation profile for gxt-core" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="gxt-core" />
+      </profile>
+      <profile default="false" name="Annotation profile for dcma-dynamic-services" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcma-dynamic-services" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dcma-barcode" target="1.6" />
+      <module name="dcma-barcode-extraction" target="1.6" />
+      <module name="dcma-batch" target="1.6" />
+      <module name="dcma-cleanup" target="1.6" />
+      <module name="dcma-core" target="1.6" />
+      <module name="dcma-csv-file-creation" target="1.6" />
+      <module name="dcma-da" target="1.6" />
+      <module name="dcma-data-access" target="1.6" />
+      <module name="dcma-dynamic-services" target="1.6" />
+      <module name="dcma-encryption" target="1.6" />
+      <module name="dcma-export" target="1.6" />
+      <module name="dcma-ftp" target="1.6" />
+      <module name="dcma-gwt" target="1.6" />
+      <module name="dcma-gwt-core" target="1.6" />
+      <module name="dcma-heart-beat" target="1.6" />
+      <module name="dcma-imagemagick" target="1.6" />
+      <module name="dcma-import-folder" target="1.6" />
+      <module name="dcma-key-value-learning" target="1.6" />
+      <module name="dcma-kv-extraction" target="1.6" />
+      <module name="dcma-lucene" target="1.6" />
+      <module name="dcma-mail" target="1.6" />
+      <module name="dcma-ocropus" target="1.6" />
+      <module name="dcma-open-office" target="1.6" />
+      <module name="dcma-parent" target="1.6" />
+      <module name="dcma-regex" target="1.6" />
+      <module name="dcma-regex-pp" target="1.6" />
+      <module name="dcma-regex-validation" target="1.6" />
+      <module name="dcma-root" target="1.5" />
+      <module name="dcma-tabbed-pdf" target="1.6" />
+      <module name="dcma-table-extraction" target="1.6" />
+      <module name="dcma-tempfolder-cleanup" target="1.6" />
+      <module name="dcma-tesseract" target="1.6" />
+      <module name="dcma-test" target="1.6" />
+      <module name="dcma-user-connectivity" target="1.6" />
+      <module name="dcma-util" target="1.6" />
+      <module name="dcma-webapp" target="1.6" />
+      <module name="dcma-webservice" target="1.6" />
+      <module name="dcma-workflows" target="1.6" />
+      <module name="gxt" target="1.6" />
+      <module name="gxt-admin" target="1.6" />
+      <module name="gxt-batch-instance" target="1.6" />
+      <module name="gxt-core" target="1.6" />
+      <module name="gxt-custom-workflow" target="1.6" />
+      <module name="gxt-folder-manager" target="1.6" />
+      <module name="gxt-home" target="1.6" />
+      <module name="gxt-login" target="1.6" />
+      <module name="gxt-review-validate" target="1.6" />
+      <module name="gxt-system-config" target="1.6" />
+      <module name="gxt-theme" target="1.6" />
+      <module name="gxt-upload-batch" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

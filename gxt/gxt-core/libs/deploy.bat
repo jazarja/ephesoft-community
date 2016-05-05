@@ -1,0 +1,1 @@
+mvn deploy:deploy-file -Durl=file://D:/Lab/Ephesoft/source-code/gxt/gxt-core/repo -Dfile=org.moxieapps.gwt.uploader-1.1.0.jar -DgroupId=org.moxieapps.gwt -DartifactId=org.moxieapps.gwt.uploader -Dpackaging=jar -Dversion=1.1.0

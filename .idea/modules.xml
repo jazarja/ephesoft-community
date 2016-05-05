@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-barcode/dcma-barcode.iml" filepath="$PROJECT_DIR$/../source-code/dcma-barcode/dcma-barcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-barcode-extraction/dcma-barcode-extraction.iml" filepath="$PROJECT_DIR$/../source-code/dcma-barcode-extraction/dcma-barcode-extraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-batch/dcma-batch.iml" filepath="$PROJECT_DIR$/../source-code/dcma-batch/dcma-batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-cleanup/dcma-cleanup.iml" filepath="$PROJECT_DIR$/../source-code/dcma-cleanup/dcma-cleanup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-core/dcma-core.iml" filepath="$PROJECT_DIR$/../source-code/dcma-core/dcma-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-csv-file-creation/dcma-csv-file-creation.iml" filepath="$PROJECT_DIR$/../source-code/dcma-csv-file-creation/dcma-csv-file-creation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-da/dcma-da.iml" filepath="$PROJECT_DIR$/../source-code/dcma-da/dcma-da.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-data-access/dcma-data-access.iml" filepath="$PROJECT_DIR$/../source-code/dcma-data-access/dcma-data-access.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-dynamic-services/dcma-dynamic-services.iml" filepath="$PROJECT_DIR$/../source-code/dcma-dynamic-services/dcma-dynamic-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-encryption/dcma-encryption.iml" filepath="$PROJECT_DIR$/../source-code/dcma-encryption/dcma-encryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-export/dcma-export.iml" filepath="$PROJECT_DIR$/../source-code/dcma-export/dcma-export.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-ftp/dcma-ftp.iml" filepath="$PROJECT_DIR$/../source-code/dcma-ftp/dcma-ftp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-gwt/dcma-gwt.iml" filepath="$PROJECT_DIR$/../source-code/dcma-gwt/dcma-gwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-gwt/dcma-gwt-core/dcma-gwt-core.iml" filepath="$PROJECT_DIR$/../source-code/dcma-gwt/dcma-gwt-core/dcma-gwt-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-heart-beat/dcma-heart-beat.iml" filepath="$PROJECT_DIR$/../source-code/dcma-heart-beat/dcma-heart-beat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-imagemagick/dcma-imagemagick.iml" filepath="$PROJECT_DIR$/../source-code/dcma-imagemagick/dcma-imagemagick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-import-folder/dcma-import-folder.iml" filepath="$PROJECT_DIR$/../source-code/dcma-import-folder/dcma-import-folder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-key-value-learning/dcma-key-value-learning.iml" filepath="$PROJECT_DIR$/../source-code/dcma-key-value-learning/dcma-key-value-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-kv-extraction/dcma-kv-extraction.iml" filepath="$PROJECT_DIR$/../source-code/dcma-kv-extraction/dcma-kv-extraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-lucene/dcma-lucene.iml" filepath="$PROJECT_DIR$/../source-code/dcma-lucene/dcma-lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-mail/dcma-mail.iml" filepath="$PROJECT_DIR$/../source-code/dcma-mail/dcma-mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-ocropus/dcma-ocropus.iml" filepath="$PROJECT_DIR$/../source-code/dcma-ocropus/dcma-ocropus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-open-office/dcma-open-office.iml" filepath="$PROJECT_DIR$/../source-code/dcma-open-office/dcma-open-office.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/parent/dcma-parent.iml" filepath="$PROJECT_DIR$/../source-code/parent/dcma-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-regex/dcma-regex.iml" filepath="$PROJECT_DIR$/../source-code/dcma-regex/dcma-regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-regex-pp/dcma-regex-pp.iml" filepath="$PROJECT_DIR$/../source-code/dcma-regex-pp/dcma-regex-pp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-regex-validation/dcma-regex-validation.iml" filepath="$PROJECT_DIR$/../source-code/dcma-regex-validation/dcma-regex-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-root.iml" filepath="$PROJECT_DIR$/../source-code/dcma-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-tabbed-pdf/dcma-tabbed-pdf.iml" filepath="$PROJECT_DIR$/../source-code/dcma-tabbed-pdf/dcma-tabbed-pdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-table-extraction/dcma-table-extraction.iml" filepath="$PROJECT_DIR$/../source-code/dcma-table-extraction/dcma-table-extraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-tempfolder-cleanup/dcma-tempfolder-cleanup.iml" filepath="$PROJECT_DIR$/../source-code/dcma-tempfolder-cleanup/dcma-tempfolder-cleanup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-tesseract/dcma-tesseract.iml" filepath="$PROJECT_DIR$/../source-code/dcma-tesseract/dcma-tesseract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-test/dcma-test.iml" filepath="$PROJECT_DIR$/../source-code/dcma-test/dcma-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-user-connectivity/dcma-user-connectivity.iml" filepath="$PROJECT_DIR$/../source-code/dcma-user-connectivity/dcma-user-connectivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-util/dcma-util.iml" filepath="$PROJECT_DIR$/../source-code/dcma-util/dcma-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-webapp/dcma-webapp.iml" filepath="$PROJECT_DIR$/../source-code/dcma-webapp/dcma-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-webservice/dcma-webservice.iml" filepath="$PROJECT_DIR$/../source-code/dcma-webservice/dcma-webservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/dcma-workflows/dcma-workflows.iml" filepath="$PROJECT_DIR$/../source-code/dcma-workflows/dcma-workflows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/gxt/gxt.iml" filepath="$PROJECT_DIR$/../source-code/gxt/gxt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/gxt/gxt-admin/gxt-admin.iml" filepath="$PROJECT_DIR$/../source-code/gxt/gxt-admin/gxt-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/gxt/gxt-batch-instance/gxt-batch-instance.iml" filepath="$PROJECT_DIR$/../source-code/gxt/gxt-batch-instance/gxt-batch-instance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/gxt/gxt-core/gxt-core.iml" filepath="$PROJECT_DIR$/../source-code/gxt/gxt-core/gxt-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/gxt/gxt-custom-workflow/gxt-custom-workflow.iml" filepath="$PROJECT_DIR$/../source-code/gxt/gxt-custom-workflow/gxt-custom-workflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/gxt/gxt-folder-manager/gxt-folder-manager.iml" filepath="$PROJECT_DIR$/../source-code/gxt/gxt-folder-manager/gxt-folder-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/gxt/gxt-home/gxt-home.iml" filepath="$PROJECT_DIR$/../source-code/gxt/gxt-home/gxt-home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/gxt/gxt-login/gxt-login.iml" filepath="$PROJECT_DIR$/../source-code/gxt/gxt-login/gxt-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/gxt/gxt-review-validate/gxt-review-validate.iml" filepath="$PROJECT_DIR$/../source-code/gxt/gxt-review-validate/gxt-review-validate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/gxt/gxt-system-config/gxt-system-config.iml" filepath="$PROJECT_DIR$/../source-code/gxt/gxt-system-config/gxt-system-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/gxt/gxt-theme/gxt-theme.iml" filepath="$PROJECT_DIR$/../source-code/gxt/gxt-theme/gxt-theme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../source-code/gxt/gxt-upload-batch/gxt-upload-batch.iml" filepath="$PROJECT_DIR$/../source-code/gxt/gxt-upload-batch/gxt-upload-batch.iml" />
+    </modules>
+  </component>
+</project>
