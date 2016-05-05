@@ -139,6 +139,7 @@
     <orderEntry type="library" name="Maven: org.openoffice:jurt:3.1.0" level="project" />
     <orderEntry type="library" name="Maven: org.openoffice:ridl:3.1.0" level="project" />
     <orderEntry type="library" name="Maven: org.openoffice:unoil:3.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.json:json:20080701" level="project" />
     <orderEntry type="library" name="Maven: commons-cli:commons-cli:1.1" level="project" />
     <orderEntry type="library" name="Maven: org.artofsolving.jodconverter:jodconverter-core:3.0-beta-3" level="project" />
     <orderEntry type="library" name="Maven: com.thoughtworks.xstream:xstream:1.2.2" level="project" />
@@ -173,13 +174,16 @@
     <orderEntry type="library" name="Maven: commons-digester:commons-digester:1.7" level="project" />
     <orderEntry type="library" name="Maven: xml-apis:xml-apis:1.0.b2" level="project" />
     <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils-core:1.8.0" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.gwt:gwt-user:2.6.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.gwt:gwt-user:2.7.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: javax.validation:validation-api:1.0.0.GA" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: javax.validation:validation-api:sources:1.0.0.GA" level="project" />
-    <orderEntry type="library" name="Maven: org.json:json:20080701" level="project" />
-    <orderEntry type="library" name="Maven: com.google.gwt:gwt-dev:2.6.0" level="project" />
-    <orderEntry type="library" name="Maven: com.google.gwt:gwt-codeserver:2.6.0" level="project" />
-    <orderEntry type="library" name="Maven: com.google.gwt:gwt-servlet:2.6.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.gwt:gwt-dev:2.7.0" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm:5.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-util:5.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-tree:5.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-commons:5.0.3" level="project" />
+    <orderEntry type="library" name="Maven: com.google.gwt:gwt-codeserver:2.7.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.gwt:gwt-servlet:2.7.0" level="project" />
     <orderEntry type="library" name="Maven: commons-fileupload:commons-fileupload:1.2.2" level="project" />
   </component>
 </module>
